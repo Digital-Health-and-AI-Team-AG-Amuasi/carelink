@@ -1,0 +1,14 @@
+.env
+.idea/
+__pycache__/
+.vscode/
+.funcignore
+local_storage/messages/audio_messages/
+local_storage/user_data.txt
+local_storage/user_preferences.txt
+/testing
+.python_packages
+chroma_db/
+local_storage/error_log.txt
+.venv/
+.venv_py312/

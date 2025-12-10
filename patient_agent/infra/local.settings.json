@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=careaibackengroupae60;AccountKey=LdU4DdQQEOzqzdPSj8l3YKX3OgOi/XSDUZEKLhSa0uuheDVL5Gfd2BAvXagYkDl7fCIIwNUQDXDK+AStIYJlFQ==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "IS_RUNNING_LOCALLY": true,
+    "WHATSAPP_CLOUD_ACCESS_TOKEN": "EAAJLYvpPdOYBOZBxxY1OkW0eVUkpVTvPzVvkRm9rzmJQnuN20wHYchmXuaA4jRfNqfHnVQ3Qa2T3sbuZAjR4LuXUsitBOsj66EfVwYiF2dwOgV8NIOYFX44kuQIMC4rgZCNnZAho1TPcVpelts4UnHaEOwZBRulmuGqV9kgTWFcJsH5DYIZC7eQVpXSz5lrdbkVgZDZD",
+    "VERIFIABLE_TOKEN": "apple",
+    "GROQ_API_KEY": "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",
+    "AZURE_STORAGE_STORAGE_KEY": "DefaultEndpointsProtocol=https;AccountName=careaibackengroupae60;AccountKey=LdU4DdQQEOzqzdPSj8l3YKX3OgOi/XSDUZEKLhSa0uuheDVL5Gfd2BAvXagYkDl7fCIIwNUQDXDK+AStIYJlFQ==;EndpointSuffix=core.windows.net",
+    "AZURE_OCR_RESOURCE_KEY": "4clzUuV1xWR7z752T92rB4Irw8NUVr7CadP18pgexsecEVqmFRftJQQJ99BDACrIdLPXJ3w3AAAFACOGq2nA",
+    "GHANANLP_ACCESS_TOKEN": "3507c9956dbc40cb803daaf3a15b063b",
+    "EHR_API_KEY": "W11JUFcsYd6s80htOBy3VBpmQ0ombRSSES9kZqKFsp9qdrNzS1PDnRRh8ePD",
+    "EHR_BACKEND_URL": "http://localhost:8000/api",
+    "OPENAI_API_KEY": "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"
+  }
+}

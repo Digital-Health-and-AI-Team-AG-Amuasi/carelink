@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "build": "vite build",
+        "dev": "vite"
+    },
+    "devDependencies": {
+        "@tailwindcss/vite": "^4.1.6",
+        "axios": "^1.8.2",
+        "concurrently": "^9.0.1",
+        "laravel-vite-plugin": "^1.2.0",
+        "tailwindcss": "^4.1.6",
+        "vite": "^6.3.5"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^6.7.2",
+        "@keenthemes/ktui": "^1.0.11",
+        "@yaireo/tagify": "^4.35.1",
+        "heroicons": "^2.2.0",
+        "jquery": "^3.7.1",
+        "select2": "^4.1.0-rc.0"
+    }
+}
